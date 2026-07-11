@@ -48,7 +48,7 @@ $$
 \begin{aligned}
 2x + y &\leq 100 \quad &\text{(机器时间限制)} \\
 x + 2y &\leq 80 \quad &\text{(人工时间限制)} \\
-x &\geq 0,\; y \geq 0 \quad &\text{(非负约束)}
+x \geq 0,\; y \geq 0 \quad &\text{(非负约束)}
 \end{aligned}
 $$
 
